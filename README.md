@@ -1,5 +1,4 @@
 # Login-vulnerable-to-SQLi
-A login vulnerable to SQLi has been created and bypassed. 
 
 ----------------------------------------------------------------------------
                            English
